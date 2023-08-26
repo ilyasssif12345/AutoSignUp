@@ -1,0 +1,7 @@
+*This code when executed automatically perform all the steps required to sign up a new account in chess.com
+*The benefit is that you get 1 free game review per day, and with this script i managed to get a lot of them in one day by playing in different accounts.
+*This method is faster than just manually clicking and inserting email and passwords every single time.
+************* HOW TO USE*****************
+1-Install python 3 if not installed
+2-Install geckodriver from this link - https://github.com/mozilla/geckodriver/releases -
+3-Install Firefox if not install (only works for Firefox)
